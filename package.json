@@ -1,0 +1,19 @@
+{
+  "name": "sfcc-template-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clack/prompts": "0.7.0",
+    "node-html-parser": "6.1.12",
+    "picocolors": "1.0.0"
+  }
+}
